@@ -1,0 +1,4 @@
+transformers
+torch
+autotrain-advanced
+diffusers[torch]
